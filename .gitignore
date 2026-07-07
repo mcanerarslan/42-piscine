@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# C build outputs
+*.o
+*.obj
+*.d
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+a.out
+*.dSYM/
+
+# Local test / debug binaries
+test
+test_*
+debug
+
+# Logs
+*.log
+
