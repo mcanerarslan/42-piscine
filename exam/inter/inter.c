@@ -26,12 +26,4 @@ int main(int ac, char **av)
         list[k] = '\0';
     }
     write(1, "\n", 1);
-    write(1, "-\n", 2);
-    i = 0;
-    while (list[i])
-    {
-        write(1, &list[i], 1);
-        i++;
-    }
-
 }
