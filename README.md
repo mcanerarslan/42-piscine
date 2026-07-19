@@ -19,7 +19,7 @@ Ama pes etmek yerine eksiklerimin üzerine gitmeyi seçtim. Final sınavında al
 Bu repo, 42 Türkiye Kocaeli Havuz sürecinde geliştirdiğim çalışmaları içeriyor:
 
 * `C-Piscin-C-00` - `C-Piscin-C-07`: C programlama temel kavramları, fonksiyonlar, pointer'lar, string işlemleri ve bellek yönetimi projeleri.
-* `Shell_00`, `Shell_00_retry`, `Shell01`: Temel terminal ve shell komutları, bash script alıştırmaları.
+* `Shell_00`,`Shell01`: Temel terminal ve shell komutları, bash script alıştırmaları.
 * `exam`: Havuz sürecinde karşılaştığım sınav soruları ve çözümlerim.
 
 
