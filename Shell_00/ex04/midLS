@@ -1,4 +1,0 @@
-ls -mtp
-#m is coma-separated
-#t sorts modification date
-#p is path represantation
